@@ -1,2 +1,1 @@
-# PreCourseHenry
-Este es un repositorio de prueba
+Este es un proyecto para aprender a crear repositorios en la nube GitHub y como clonarlo a mi escritorio local de la computadora
